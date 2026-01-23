@@ -85,4 +85,5 @@ while True:
             1, (0, 255, 0), 2)
 
     cv2.imshow("Image",img)
+
     cv2.waitKey(1)
