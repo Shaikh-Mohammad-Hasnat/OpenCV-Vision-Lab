@@ -23,8 +23,10 @@ import numpy as np
 
 
 #path of the video
+"Change the video.mp4 to 0 to access first webcam and 1 to another"
 
 chars = "  .'`^\",:;Il!i><~+_-?][}{1)(|\\/*#ht&8%B@$"
+
 cam=cv2.VideoCapture("video.mp4")
 scale=10
 while True:
