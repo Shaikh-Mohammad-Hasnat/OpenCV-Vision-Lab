@@ -40,8 +40,8 @@ while True:
     
         print("\033[32mNO MOTION DETECTED\033[0m")
     cv2.imshow("Diff", cv2.resize(Diff, (500, 450)))
-    cv2.imshow("Motion Detection", cv2.resize(cv2.cvtColor(display_frame, cv2.COLOR_BGR2GRAY), (500, 450)))  #  one window shows both boxes + text
-    cv2.imshow("Thre", cv2.resize(thresh, (500, 450)))  #  one window shows both boxes + text
+    cv2.imshow("Motion Detection", cv2.resize(cv2.cvtColor(display_frame, cv2.COLOR_BGR2GRAY), (500, 450))) 
+    cv2.imshow("Thre", cv2.resize(thresh, (500, 450))) 
 
     Prev_frame = Current_frame
 
