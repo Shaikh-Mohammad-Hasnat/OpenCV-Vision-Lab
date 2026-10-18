@@ -2,6 +2,8 @@
 
 Real-time computer-vision programs built on a webcam feed: a filter lab with a GUI, a hand-gesture mouse, a motion detector and live edge detection.
 
+![Filters demo](docs/filters_demo.png)
+
 ## What's inside
 
 | Folder | What it does |
@@ -30,4 +32,4 @@ Notes:
 Python, OpenCV, NumPy, MediaPipe, PyAutoGUI, CustomTkinter, Pillow.
 
 ## Author
-Shaikh Mohammad Hasnat, [GitHub](https://github.com/Shaikh-Mohammad-Hasnat)
+Shaikh Mohammad Hasnat, [GitHub](https://github.com/Shaikh-Mohammad-Hasnat), [LinkedIn](https://www.linkedin.com/in/shaikh-mohammad-hasnat-698a08335)
