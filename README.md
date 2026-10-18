@@ -2,8 +2,6 @@
 
 Real-time computer-vision programs built on a webcam feed: a filter lab with a GUI, a hand-gesture mouse, a motion detector and live edge detection.
 
-![Filters demo](docs/filters_demo.png)
-
 ## What's inside
 
 | Folder | What it does |
